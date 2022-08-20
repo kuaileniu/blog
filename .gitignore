@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+.DS_Store
+__MACOSX
+hugo
+hugo.exe
+resources
+node_modules
