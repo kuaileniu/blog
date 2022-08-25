@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>江涛 on 江涛博客</title><link>https://blog.zhsit.cn/authors/%E6%B1%9F%E6%B6%9B/</link><description>Recent content in 江涛 on 江涛博客</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2016-2022 Tao. All Rights Reserved.</copyright><lastBuildDate>Sun, 24 Jul 2022 00:01:47 +0800</lastBuildDate><atom:link href="https://blog.zhsit.cn/authors/%E6%B1%9F%E6%B6%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>黛玉葬花</title><link>https://blog.zhsit.cn/chat/dai-yu-zang-hua/</link><pubDate>Sun, 24 Jul 2022 00:01:47 +0800</pubDate><guid>https://blog.zhsit.cn/chat/dai-yu-zang-hua/</guid><description>儿童版《红楼梦》共11册。一正在上幼儿园大班的小朋友特别喜欢《红楼梦》，她认为《红楼梦》中的故事比 《伊索寓言》等故事更有意思，《红楼梦》中的</description></item><item><title>Oracle的sequence</title><link>https://blog.zhsit.cn/chat/oracle-sequence/</link><pubDate>Sat, 23 Jul 2022 11:34:47 +0800</pubDate><guid>https://blog.zhsit.cn/chat/oracle-sequence/</guid><description>&lt;p>某日，听某架构师说 Oracle的Sequence 可能不是递增，而是随机出来的数。这个观点与我潜意识有点不同，回头调研一下Oracle的Sequenc的实现原理，总结一片文章，以提高自己。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>江涛 on 江涛博客</title>
+    <link>https://blog.zhsit.cn/authors/%E6%B1%9F%E6%B6%9B/</link>
+    <description>Recent content in 江涛 on 江涛博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-2022 Tao. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 25 Jul 2022 17:01:47 +0800</lastBuildDate><atom:link href="https://blog.zhsit.cn/authors/%E6%B1%9F%E6%B6%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>内功疗伤</title>
+      <link>https://blog.zhsit.cn/chat/nei-gong/</link>
+      <pubDate>Mon, 25 Jul 2022 17:01:47 +0800</pubDate>
+      
+      <guid>https://blog.zhsit.cn/chat/nei-gong/</guid>
+      <description>一女士对儿童说：“我在用内功给你疗伤”。 儿童回应：“我没听懂”。 哈哈，“内功”这种“鬼话”，恐怕只有稍有点年龄的中国人才能理解吧。</description>
+    </item>
+    
+    <item>
+      <title>黛玉葬花</title>
+      <link>https://blog.zhsit.cn/chat/dai-yu-zang-hua/</link>
+      <pubDate>Sun, 24 Jul 2022 00:01:47 +0800</pubDate>
+      
+      <guid>https://blog.zhsit.cn/chat/dai-yu-zang-hua/</guid>
+      <description>儿童版《红楼梦》共11册。一正在上幼儿园大班的小朋友特别喜欢《红楼梦》，她认为《红楼梦》中的故事比 《伊索寓言》等故事更有意思，《红楼梦》中的</description>
+    </item>
+    
+    <item>
+      <title>Oracle的sequence</title>
+      <link>https://blog.zhsit.cn/chat/oracle-sequence/</link>
+      <pubDate>Sat, 23 Jul 2022 11:34:47 +0800</pubDate>
+      
+      <guid>https://blog.zhsit.cn/chat/oracle-sequence/</guid>
+      <description>&lt;p&gt;某日，听某架构师说 Oracle的Sequence 可能不是递增，而是随机出来的数。这个观点与我潜意识有点不同，回头调研一下Oracle的Sequenc的实现原理，总结一片文章，以提高自己。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
+

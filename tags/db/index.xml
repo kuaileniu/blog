@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DB on 江涛博客</title><link>https://blog.zhsit.cn/tags/db/</link><description>Recent content in DB on 江涛博客</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2016-2022 Tao. All Rights Reserved.</copyright><lastBuildDate>Sat, 23 Jul 2022 11:34:47 +0800</lastBuildDate><atom:link href="https://blog.zhsit.cn/tags/db/index.xml" rel="self" type="application/rss+xml"/><item><title>Oracle的sequence</title><link>https://blog.zhsit.cn/chat/oracle-sequence/</link><pubDate>Sat, 23 Jul 2022 11:34:47 +0800</pubDate><guid>https://blog.zhsit.cn/chat/oracle-sequence/</guid><description>&lt;p>某日，听某架构师说 Oracle的Sequence 可能不是递增，而是随机出来的数。这个观点与我潜意识有点不同，回头调研一下Oracle的Sequenc的实现原理，总结一片文章，以提高自己。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DB on 江涛博客</title>
+    <link>https://blog.zhsit.cn/tags/db/</link>
+    <description>Recent content in DB on 江涛博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-2022 Tao. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 23 Jul 2022 11:34:47 +0800</lastBuildDate><atom:link href="https://blog.zhsit.cn/tags/db/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oracle的sequence</title>
+      <link>https://blog.zhsit.cn/chat/oracle-sequence/</link>
+      <pubDate>Sat, 23 Jul 2022 11:34:47 +0800</pubDate>
+      
+      <guid>https://blog.zhsit.cn/chat/oracle-sequence/</guid>
+      <description>&lt;p&gt;某日，听某架构师说 Oracle的Sequence 可能不是递增，而是随机出来的数。这个观点与我潜意识有点不同，回头调研一下Oracle的Sequenc的实现原理，总结一片文章，以提高自己。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
+
