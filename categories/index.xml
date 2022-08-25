@@ -6,7 +6,16 @@
     <description>Recent content in 分类 on 江涛博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2016-2022 Tao. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.zhsit.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 20:01:47 +0800</lastBuildDate><atom:link href="https://blog.zhsit.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>诗词文章</title>
+      <link>https://blog.zhsit.cn/categories/%E8%AF%97%E8%AF%8D%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Thu, 25 Aug 2022 20:01:47 +0800</pubDate>
+      
+      <guid>https://blog.zhsit.cn/categories/%E8%AF%97%E8%AF%8D%E6%96%87%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Installation</title>
       <link>https://blog.zhsit.cn/categories/installation/</link>
@@ -22,15 +31,6 @@
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.zhsit.cn/categories/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>novel</title>
-      <link>https://blog.zhsit.cn/categories/novel/</link>
-      <pubDate>Sun, 24 Jul 2022 00:01:47 +0800</pubDate>
-      
-      <guid>https://blog.zhsit.cn/categories/novel/</guid>
       <description></description>
     </item>
     
